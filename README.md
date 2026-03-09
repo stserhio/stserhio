@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Waterford-based Fullstack Developer (React/Next.js/Node.js). I build responsive, data-driven web applications from UI to API. Available immediately for WPEP & JobsPlus to help local businesses scale their engineering with zero financial risk.
+Junior Software Engineer in Waterford 🇮🇪.
+I build web apps with React, Node.js, and PostgreSQL. Currently working on a project that uses AI to track calories. Stamp 4 holder, eligible for WPEP and JobsPlus grants. Ready to join a team and learn fast.
 <!--
 **stserhio/stserhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
