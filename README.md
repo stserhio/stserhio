@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Waterford-based Fullstack Developer (React/Next.js/Node.js). I build responsive, data-driven web applications from UI to API. Available immediately for WPEP & JobsPlus to help local businesses scale their engineering with zero financial risk.
 <!--
 **stserhio/stserhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
