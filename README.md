@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-Junior Software Engineer in Waterford 🇮🇪.
-I build web apps with React, Node.js, and PostgreSQL. Currently working on a project that uses AI to track calories. Stamp 4 holder, eligible for WPEP and JobsPlus grants. Ready to join a team and learn fast.
+Junior Software Engineer in Waterford, Ireland.
+I build full-stack web apps using React, Next.js, TypeScript, and Node.js. My toolkit includes Tailwind CSS, TanStack Query, and databases like PostgreSQL, MySQL, and MongoDB.
+
+🚀 Current project: AI-powered Calorie Tracker (converting natural language to structured data).
+✅ Hiring info: Stamp 4 holder. Fully eligible for WPEP (100% state-funded placement) and JobsPlus grants.
+
+Agile mindset, fast learner, and ready to contribute to a production team.
 <!--
 **stserhio/stserhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
